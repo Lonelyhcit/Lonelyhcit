@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lonelyhcit</h1>
-<h3 align="center">A IT intern from VietNam</h3>
+<h3 align="center">An IT intern from VietNam</h3>
 
 - 📫 How to reach me **tuanpq.hlnb@gmail.com**
 

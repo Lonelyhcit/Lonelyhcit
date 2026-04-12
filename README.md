@@ -53,3 +53,9 @@
        style="filter: invert(1);" />
 </a>
 </p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+    <img src="https://img.shields.io/badge/Click%20here%20for%20my%20CV-00C853?style=for-the-badge&logo=google-drive&logoColor=white" />
+  </a>
+</p>

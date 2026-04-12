@@ -14,14 +14,14 @@
 ## 🔥 Follow Me
 
 <p align="center">
-  <a href="https://fb.com/lonely.hc.it" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  <a href="https://fb.com/lonely.hc.it">
+    <img src="https://img.shields.io/badge/👉%20FACEBOOK%20CỦA%20TÔI-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" width="350"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.tiktok.com/@lonely.hc.it" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+  <a href="https://www.tiktok.com/@lonely.hc.it">
+    <img src="https://img.shields.io/badge/👉%20TIKTOK%20CỦA%20TÔI-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=000000" width="350"/>
   </a>
 </p>
 
@@ -29,22 +29,18 @@
 
 ## 📫 Contact
 
-- 📧 **tuanpq.hlnb@gmail.com**
+<p align="center">
+  <img src="https://img.shields.io/badge/Email-tuanpq.hlnb%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</p>
 
 ---
 
 ## 💻 Languages and Tools
 
 <p align="center">
-<a href="https://www.learn-c.org/" target="blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" />
-</a>
-<a href="https://www.w3schools.com/cpp/" target="blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40" />
-</a>
-<a href="https://www.python.org" target="blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" />
-</a>
 </p>
 
 ---

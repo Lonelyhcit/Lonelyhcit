@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Lonelyhcit</h1>
 <h3 align="center">An IT intern from VietNam</h3>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
+
 - 📫 How to reach me **tuanpq.hlnb@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

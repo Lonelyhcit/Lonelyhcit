@@ -49,18 +49,6 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lonelyhcit&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lonelyhcit&layout=compact&theme=tokyonight" />
-</p>
-
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=lonelyhcit&theme=tokyonight" />
-</p>
-
----
-
-<p align="center">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
     <img src="https://img.shields.io/badge/📄%20Download%20My%20CV-00C853?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>

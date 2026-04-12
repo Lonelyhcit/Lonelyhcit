@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lonelyhcit</h1>
-<h3 align="center">An IT intern from VietNam</h3>
+<h3 align="center">Turning ideas into code 🚀 | IT Student from Vietnam 🇻🇳</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=I+love+coding;Competitive+Programmer;C%2FC%2B%2B+%7C+Python;Welcome+to+my+profile!" />

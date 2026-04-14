@@ -15,13 +15,13 @@
 
 <p align="center">
   <a href="https://fb.com/lonely.hc.it">
-    <img src="https://img.shields.io/badge/👉-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" width="350"/>
+    <img src="https://img.shields.io/badge/-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" width="350"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.tiktok.com/@lonely.hc.it">
-    <img src="https://img.shields.io/badge/👉-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=000000" width="350"/>
+    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=000000" width="350"/>
   </a>
 </p>
 

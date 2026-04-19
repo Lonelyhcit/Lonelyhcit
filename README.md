@@ -11,7 +11,7 @@
 
 ---
 
-## 🔥 Follow Me
+## 🔥 
 
 <p align="center">
   <a href="https://fb.com/lonely.hc.it">
@@ -27,7 +27,7 @@
 
 ---
 
-## 📫 Contact
+## 📫 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Email-tuanpq.hlnb%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
